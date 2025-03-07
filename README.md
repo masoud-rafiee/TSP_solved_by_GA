@@ -2,7 +2,7 @@
 
 **Author: Masoud Rafiee**
 
-[View detailed report](report.pdf)
+[View detailed report](Report.pdf)
 ---
 
 ## Techniques Used
